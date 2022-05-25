@@ -6,6 +6,9 @@ import (
 )
 
 func main() {
+	// update default worker number
+	// update input chan size
+	// update task chan size
 	q := NewQueue()
 
 	go q.startConsumer()
