@@ -8,7 +8,7 @@ require (
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/gavv/httpexpect v1.1.2
 	github.com/gavv/monotime v0.0.0-20190418164738-30dba4353424 // indirect
-	github.com/gin-gonic/gin v1.7.2-0.20220518142727-f1e942889abd
+	github.com/gin-gonic/gin v1.8.0
 	github.com/go-sql-driver/mysql v1.5.0 // indirect
 	github.com/go-testfixtures/testfixtures/v3 v3.4.0
 	github.com/google/go-querystring v1.0.0 // indirect
